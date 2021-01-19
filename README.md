@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ### Hi there, I'm [Kareem Saeed](https://github.com/kareem983)! 👋
 
-### Computer Science Student, passionate about Software development (android native) and seeking for an entry level internship to enhance my kills.
+### Computer Science Student, passionate about Software development (android native) and seeking for an entry level internship to enhance my skills.
 
 - 🎓 2022 graduate from faculty of computer science at Ain Shams University.
 - 🤔 I’m looking for a position as Android developer / software engineer.
