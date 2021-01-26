@@ -7,7 +7,7 @@
 - 🧠 Problem Solving Skills.
 - 📲 Interested more in android development. 
 - 💻 Strong Knowledge of java and C++ programming languages.
-- 📌 Lives in Cairo, Egypt.
+- 📌 Lives in Cairo, Egypt. 
 
 ![](https://komarev.com/ghpvc/?username=kareem983)
 
