@@ -29,6 +29,10 @@
 ![sql](https://user-images.githubusercontent.com/52586356/104856983-1c159700-591e-11eb-8670-ba116f3681a2.png)
 ![github](https://user-images.githubusercontent.com/52586356/104856987-259eff00-591e-11eb-806f-3163ef4119d3.png)
 ![git](https://user-images.githubusercontent.com/52586356/104856990-30599400-591e-11eb-9468-13cb9e8a4dd1.png)
+![photoshop](https://user-images.githubusercontent.com/52586356/105889803-413d9000-6017-11eb-9214-e1400b371d66.png)
+![premiere](https://user-images.githubusercontent.com/52586356/105889977-6f22d480-6017-11eb-8543-2f0119aa2f97.png)
+![after effect](https://user-images.githubusercontent.com/52586356/105890092-95e10b00-6017-11eb-9206-777848b61bfd.png)
+
 
 [![commits](https://github-readme-stats.vercel.app/api?username=kareem983&&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515)](https://github.com/kareem983?tab=repositories)
 
