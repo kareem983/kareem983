@@ -1,15 +1,31 @@
-### Hi there, I'm [Kareem Saeed](https://github.com/kareem983)! 👋
+<h1 align="center"> Hi there, I'm Kareem Saeed 👋 </h1>
 
-### Computer Science Student, passionate about Software development (android native) and seeking for an entry level internship to enhance my skills.
-
-- 🎓 2022 graduate from faculty of computer science at Ain Shams University.
-- 🤔 I’m looking for a position as Android developer / software engineer.
-- 🧠 Problem Solving Skills.
-- 📲 Interested more in android development. 
-- 💻 Strong Knowledge of java and C++ programming languages.
-- 📌 Lives in Cairo, Egypt. 
+<h3 align="center">Junior Software Engineer</h3>
 
 ![](https://komarev.com/ghpvc/?username=kareem983)
+
+<img src="https://github-readme-stats.vercel.app/api?username=kareem983&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem983&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/kareem983)
+
+
+<h2 align = "left"> About Me</h2>
+
+🎓 Fourth Year Computer Science Student at Ain Shams University.  
+📌 Lives in Cairo, Egypt.   
+🧠 Have a Problem Solving Skills.
+ - Interested in Software Development.
+ - Android Development (Kotlin, Java)
+ - .Net
+ - Unit Testing.
+ - OOP concepts and Design Patterns.
+ - Database such as ( SQL Server, Oracle SQL, SqLite, Room, Firebase).
+ - Algorithms and Data Structures.
+ - Graphic Design with Adobe kit that help me in UI in general.
+ - Good knowledge in Networking.
+ - Good knowledge in Web Frontend.
+ - Strong Knowledge of java, Kotlin, C++, C# and Python Programming Languages.
+
 
 ### Contact with me:
 
@@ -34,10 +50,7 @@
 ![after effect](https://user-images.githubusercontent.com/52586356/105890092-95e10b00-6017-11eb-9206-777848b61bfd.png)
 
 
-[![commits](https://github-readme-stats.vercel.app/api?username=kareem983&&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515)](https://github.com/kareem983?tab=repositories)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem983&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/kareem983)
 
 
 <!--
