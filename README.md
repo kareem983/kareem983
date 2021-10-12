@@ -18,7 +18,7 @@
  - Android Development (Kotlin, Java)
  - .Net
  - Unit Testing.
- - OOP concepts and Design Patterns.
+ - OOP Concepts and Design Patterns.
  - Database such as ( SQL Server, Oracle SQL, SqLite, Room, Firebase).
  - Algorithms and Data Structures.
  - Graphic Design with Adobe kit that help me in UI in general.
@@ -34,6 +34,18 @@
 
 [1]: mailto:karimsaid026@gmail.com
 [2]: https://www.linkedin.com/in/kareem-saeed-64b6a41a1
+
+
+|               Android                   |                Desktop               | Others</br>(Testing Tasks & Individual Tasks) |
+ | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
+ | [Zakrni](https://github.com/kareem983/Zakrny_MobileApp) `private till now` |  [Flight Reservation](https://github.com/kareem983/Flight_Reservation_System) | [Calculator Unit Testing](https://github.com/kareem983/Calculator_UnitTestIng_Task) |
+ | [SpaceX Company](https://github.com/kareem983/SpaceX_MobileApp) | [Co-working space](https://github.com/kareem983/Co-workingspace-system) | [Geometry Unit Testing](https://github.com/kareem983/Automation_Testing_Sample)|
+ | [Grocery Shopping App](https://github.com/kareem983/Grocery-Shopping-System-App) | [Hercules Game](https://github.com/kareem983/Disney-s-Hercules-Game) | [World Telescope Website](https://github.com/kareem983/World-Telescope-website)|
+ | [Chatting App](https://github.com/kareem983/Chat_MobileApp) |    [Frogger Game](https://github.com/kareem983/frogger-game) | [Blender Graphics](https://github.com/kareem983/Computer_Graphics_Demo) |
+ | [Hercules Game](https://github.com/kareem983/Hercules-game-MobileApp) | | [RoboTech'21 Season](https://github.com/kareem983/RoboTech_Media_2021) |
+ | [Notes App](https://github.com/kareem983/Notes-MobileApp)| | |
+
+
 
 ### Languages and tools that most used
 ![visual-studio-code](https://user-images.githubusercontent.com/52586356/104856895-a4e00300-591d-11eb-993a-41cc20137d43.png)
