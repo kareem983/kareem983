@@ -46,7 +46,7 @@
  | [Notes App](https://github.com/kareem983/Notes-MobileApp)| | |
 
 
-
+<!--
 ### Languages and tools that most used
 ![visual-studio-code](https://user-images.githubusercontent.com/52586356/104856895-a4e00300-591d-11eb-993a-41cc20137d43.png)
 ![java](https://user-images.githubusercontent.com/52586356/104856915-c0e3a480-591d-11eb-949a-726f3878223b.png)
@@ -60,7 +60,7 @@
 ![photoshop](https://user-images.githubusercontent.com/52586356/105889803-413d9000-6017-11eb-9214-e1400b371d66.png)
 ![premiere](https://user-images.githubusercontent.com/52586356/105889977-6f22d480-6017-11eb-8543-2f0119aa2f97.png)
 ![after effect](https://user-images.githubusercontent.com/52586356/105890092-95e10b00-6017-11eb-9206-777848b61bfd.png)
-
+-->
 
 
 
