@@ -37,14 +37,14 @@
 
 <h2> Projects </h2>
 
-|               Android                   |                Desktop               | Others</br>(Testing Tasks & Individual Tasks) |
+|               Android                   |                Desktop               | Others</br>(Individual Tasks) |
  | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
- | [Zakrni](https://github.com/kareem983/Zakrny_MobileApp) `private till now` |  [Flight Reservation](https://github.com/kareem983/Flight_Reservation_System) | [Calculator Unit Testing](https://github.com/kareem983/Calculator_UnitTestIng_Task) |
- | [SpaceX Company](https://github.com/kareem983/SpaceX_MobileApp) | [Co-working space](https://github.com/kareem983/Co-workingspace-system) | [Geometry Unit Testing](https://github.com/kareem983/Automation_Testing_Sample)|
- | [Grocery Shopping App](https://github.com/kareem983/Grocery-Shopping-System-App) | [Hercules Game](https://github.com/kareem983/Disney-s-Hercules-Game) | [World Telescope Website](https://github.com/kareem983/World-Telescope-website)|
- | [Chatting App](https://github.com/kareem983/Chat_MobileApp) |    [Frogger Game](https://github.com/kareem983/frogger-game) | [Blender Graphics](https://github.com/kareem983/Computer_Graphics_Demo) |
- | [Hercules Game](https://github.com/kareem983/Hercules-game-MobileApp) | | [RoboTech'21 Season](https://github.com/kareem983/RoboTech_Media_2021) |
- | [Notes App](https://github.com/kareem983/Notes-MobileApp)| | |
+ | [Zakrni](https://github.com/kareem983/Zakrny_MobileApp) `private till now` | [Simulately](https://github.com/kareem983/Simulately) | [Speech-Text Converter](https://github.com/kareem983/Speech_Text_Converter) |
+ | [SpaceX Company](https://github.com/kareem983/SpaceX_MobileApp) | [Tiny Compiler](https://github.com/kareem983/Tiny-Compiler) | [Calculator Unit Testing](https://github.com/kareem983/Calculator_UnitTestIng_Task) |
+ | [Grocery Shopping App](https://github.com/kareem983/Grocery-Shopping-System-App) | [Flight Reservation](https://github.com/kareem983/Flight_Reservation_System) | [Geometry Unit Testing](https://github.com/kareem983/Automation_Testing_Sample) |
+ | [Chatting App](https://github.com/kareem983/Chat_MobileApp) | [Co-working space](https://github.com/kareem983/Co-workingspace-system) | [World Telescope Website](https://github.com/kareem983/World-Telescope-website) |
+ | [Hercules Game](https://github.com/kareem983/Hercules-game-MobileApp) | [Hercules Game](https://github.com/kareem983/Disney-s-Hercules-Game) | [Blender Graphics](https://github.com/kareem983/Computer_Graphics_Demo) |
+ | [Notes App](https://github.com/kareem983/Notes-MobileApp)| [Frogger Game](https://github.com/kareem983/frogger-game) | [RoboTech'21 Season](https://github.com/kareem983/RoboTech_Media_2021) |
 
 
 <!--
