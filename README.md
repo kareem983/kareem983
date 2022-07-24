@@ -2,12 +2,24 @@
 
 <h3 align="center">Junior Software Engineer</h3>
 
+
+<p align="center">
+   <a href="https://github.com/kareem983?tab=repositories">
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=kareem983&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+   </a>
+</p>
+
+
 ![](https://komarev.com/ghpvc/?username=kareem983)
 
+<a href="https://github.com/kareem983/">
 <img src="https://github-readme-stats.vercel.app/api?username=kareem983&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem983&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/kareem983)
 
+
+<hr>
 
 <h2 align = "left"> About Me</h2>
 
@@ -26,6 +38,11 @@
  - Good knowledge in Networking.
  - Good knowledge in Web Frontend.
  - Strong Knowledge of java, Kotlin, C++, C# and Python Programming Languages.
+
+
+[![Resume](http://img.shields.io/badge/Show_Updated_Resume-blue.svg?style=flat)](https://drive.google.com/file/d/1KNtWHdeva7hOecJ6HxEYM1FkOqrrmQ6_/view?usp=sharing)
+
+
 
 
 ### Contact with me:
