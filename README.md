@@ -11,15 +11,16 @@
 
 <h2 align = "left"> About Me</h2>
 
-🎓 Fourth Year Computer Science Student at Ain Shams University.  
-📌 Lives in Cairo, Egypt.   
-🧠 Have a Problem Solving Skills.
+🎓 Fresh Graduate from faculty of Computer and Information Sciences - Ain Shams University.<BR>
+📌 (Computer Science Department - Class: 2022 - overall GPA: 3.7/4)<BR>
+🌍 Lives in Cairo, Egypt.<BR>
+🧠 Have a Problem Solving Skills.<BR>
  - Interested in Software Development.
  - Android Development (Kotlin, Java)
  - .Net
  - Unit Testing.
  - OOP Concepts and Design Patterns.
- - Database such as ( SQL Server, Oracle SQL, SqLite, Room, Firebase).
+ - Database such as (SQL Server, Oracle SQL, Room, Firebase).
  - Algorithms and Data Structures.
  - Graphic Design with Adobe kit that help me in UI in general.
  - Good knowledge in Networking.
