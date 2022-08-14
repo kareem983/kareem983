@@ -24,7 +24,7 @@
 <h2 align = "left"> About Me</h2>
 
 🎓 Fresh Graduate from faculty of Computer and Information Sciences - Ain Shams University.<BR>
-📌 (Computer Science Department - Class: 2022 - overall GPA: 3.7/4)<BR>
+📌 (Computer Science Department - Class: 2022 - Overall GPA: 3.9/4)<BR>
 🌍 Lives in Cairo, Egypt.<BR>
 🧠 Have a Problem Solving Skills.<BR>
  - Interested in Software Development.
@@ -40,7 +40,7 @@
  - Strong Knowledge of java, Kotlin, C++, C# and Python Programming Languages.
 
 
-[![Resume](http://img.shields.io/badge/Show_Updated_Resume-blue.svg?style=flat)](https://drive.google.com/file/d/1KNtWHdeva7hOecJ6HxEYM1FkOqrrmQ6_/view?usp=sharing)
+[![Resume](http://img.shields.io/badge/Show_Updated_Resume-blue.svg?style=flat)](https://drive.google.com/file/d/1QzYkJIWMWt9e15E5CoeOyOGG3lrB3nLY/view?usp=sharing)
 
 
 
