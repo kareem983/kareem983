@@ -29,15 +29,13 @@
 🧠 Have a Problem Solving Skills.<BR>
  - Interested in Software Development.
  - Android Development (Kotlin, Java)
- - .Net
  - Unit Testing.
  - OOP Concepts and Design Patterns.
  - Database such as (SQL Server, Oracle SQL, Room, Firebase).
  - Algorithms and Data Structures.
  - Graphic Design with Adobe kit that help me in UI in general.
- - Good knowledge in Networking.
  - Good knowledge in Web Frontend.
- - Strong Knowledge of java, Kotlin, C++, C# and Python Programming Languages.
+ - Strong Knowledge of Kotlin, java, C++, C# and Python Programming Languages.
 
 
 [![Resume](http://img.shields.io/badge/Show_Updated_Resume-blue.svg?style=flat)](https://drive.google.com/file/d/1QzYkJIWMWt9e15E5CoeOyOGG3lrB3nLY/view?usp=sharing)
