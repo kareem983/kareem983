@@ -36,11 +36,10 @@
  - Graphic Design with Adobe kit that help me in UI in general.
  - Good knowledge in Web Frontend.
  - Strong Knowledge of Kotlin, java, C++, C# and Python Programming Languages.
+ - Project Management & Tools: Git, GitHub, Agile Methodology, Jira, Trello, Software Development Life Cycle (SDLC).
 
-
-[![Resume](http://img.shields.io/badge/Show_Updated_Resume-blue.svg?style=flat)](https://drive.google.com/file/d/1xBdGaygCIWTlx3h8whN74rqtYxhH3FJc/view?usp=sharing)
-
-
+| [Show Resume](https://drive.google.com/file/d/1xBdGaygCIWTlx3h8whN74rqtYxhH3FJc/view?usp=sharing) |
+| :-------------------------------------: |
 
 
 ### Contact with me:
@@ -52,6 +51,10 @@
 [2]: https://www.linkedin.com/in/kareem-saeed-64b6a41a1
 
 <h2> Projects </h2>
+
+### Graduation Project
+|[Careium-AI](https://github.com/kareem983/Careium-AI)|
+|:----------:|
 
 |               Android                   |                Desktop               | Others</br>(Individual Tasks) |
  | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
