@@ -23,7 +23,7 @@
 
 <h2 align = "left"> About Me</h2>
 
-🎓 Fresh Graduate from faculty of Computer and Information Sciences - Ain Shams University.<BR>
+🎓 Graduated from Faculty of Computer and Information Sciences - Ain Shams University.<BR>
 📌 (Computer Science Department - Class: 2022 - Overall GPA: 3.8/4)<BR>
 🌍 Lives in Cairo, Egypt.<BR>
 🧠 Have a Problem Solving Skills.<BR>
