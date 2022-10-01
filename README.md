@@ -29,7 +29,7 @@
 🧠 Have a Problem Solving Skills.<BR>
  - Interested in Software Development.
  - Android Development (Kotlin, Java)
- - Unit Testing.
+ - Unit and API Testing.
  - OOP Concepts and Design Patterns.
  - Database such as (SQL Server, Oracle SQL, Room, Firebase).
  - Algorithms and Data Structures.
