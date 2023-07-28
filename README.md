@@ -28,17 +28,19 @@
 🌍 Lives in Cairo, Egypt.<BR>
 🧠 Have a Problem Solving Skills.<BR>
  - Interested in Software Development.
- - Android Development (Kotlin, Java)
- - Unit and API Testing.
+ - ASP.Net Framework.
+ - ASP.Net Model View Controller (MVC).
+ - ASP.Net Web API.
+ - Linq and Entity Framework.
+ - Unit Testing and API Testing (Postman).
  - OOP Concepts and Design Patterns.
  - Database such as (SQL Server, Oracle SQL, Room, Firebase).
  - Algorithms and Data Structures.
  - Graphic Design with Adobe kit that help me in UI in general.
- - Good knowledge in Web Frontend.
- - Strong Knowledge of Kotlin, java, C++, C# and Python Programming Languages.
+ - Strong Knowledge of C#, C++, Kotlin, java and Python Programming Languages.
  - Project Management & Tools: Git, GitHub, Agile Methodology, Jira, Trello, Software Development Life Cycle (SDLC).
 
-| [Show Resume](https://drive.google.com/file/d/1mirQ-ZzejTlhUBHm1JbCXuzFmBorA24O/view?usp=sharing) |
+| [Show Resume](https://drive.google.com/file/d/1svckWthTEFZtfXU07hvdwZX26nOdoXzN/view?usp=drive_link) |
 | :-------------------------------------: |
 
 
@@ -60,7 +62,7 @@
 
 |               Android                   |                Desktop               | Others</br>(Individual Tasks) |
  | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
- | [Zakrni](https://github.com/kareem983/Zakrny_MobileApp) `private till now` | [Simulately](https://github.com/kareem983/Simulately) | [Speech-Text Converter](https://github.com/kareem983/Speech_Text_Converter) |
+ | [Careium AI](https://github.com/KAN-Team/Careium-AI) | [Simulately](https://github.com/kareem983/Simulately) | [Speech-Text Converter](https://github.com/kareem983/Speech_Text_Converter) |
  | [SpaceX Company](https://github.com/kareem983/SpaceX_MobileApp) | [Tiny Compiler](https://github.com/kareem983/Tiny-Compiler) | [Calculator Unit Testing](https://github.com/kareem983/Calculator_UnitTestIng_Task) |
  | [Grocery Shopping App](https://github.com/kareem983/Grocery-Shopping-System-App) | [Flight Reservation](https://github.com/kareem983/Flight_Reservation_System) | [Geometry Unit Testing](https://github.com/kareem983/Automation_Testing_Sample) |
  | [Chatting App](https://github.com/kareem983/Chat_MobileApp) | [Co-working space](https://github.com/kareem983/Co-workingspace-system) | [World Telescope Website](https://github.com/kareem983/World-Telescope-website) |
