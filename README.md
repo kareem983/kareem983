@@ -40,7 +40,7 @@
  - Strong Knowledge of C#, C++, Kotlin, java and Python Programming Languages.
  - Project Management & Tools: Git, GitHub, Agile Methodology, Jira, Trello, Software Development Life Cycle (SDLC).
 
-| [Show Resume](https://drive.google.com/file/d/1svckWthTEFZtfXU07hvdwZX26nOdoXzN/view?usp=drive_link) |
+| [Show Resume](https://drive.google.com/file/d/1EuL7muE-IMb7a4MGPZ_kKTe7egA4FL2r/view?usp=share_link) |
 | :-------------------------------------: |
 
 
