@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Kareem Saeed 👋 </h1>
 
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 <p align="center">
@@ -21,24 +21,17 @@
 
 <hr>
 
-<h2 align = "left"> About Me</h2>
-
-🎓 Graduated from Faculty of Computer and Information Sciences - Ain Shams University.<BR>
+<h2 align = "left"> About Me 🚀</h2>
+🎓 I’m a Computer Science Graduate - Ain Shams University.<BR>
 📌 (Computer Science Department - Class: 2022 - Overall GPA: 3.8/4)<BR>
-🌍 Lives in Cairo, Egypt.<BR>
+👨‍💻 I'm interested in Backend Development. <BR>
 🧠 Have a Problem Solving Skills.<BR>
- - Interested in Software Development.
- - ASP.Net Framework.
- - ASP.Net Model View Controller (MVC).
- - ASP.Net Web API.
- - Linq and Entity Framework.
- - Unit Testing and API Testing (Postman).
- - OOP Concepts and Design Patterns.
- - Database such as (SQL Server, Oracle SQL, Room, Firebase).
- - Algorithms and Data Structures.
- - Graphic Design with Adobe kit that help me in UI in general.
- - Strong Knowledge of C#, C++, Kotlin, java and Python Programming Languages.
- - Project Management & Tools: Git, GitHub, Agile Methodology, Jira, Trello, Software Development Life Cycle (SDLC).
+🌍 Lives in Cairo, Egypt.<BR>
+
+ ### My Experiences 📭
+- Software Engineer at [MOPMAR- Ministry](https://mped.gov.eg/?lang=en).<BR>
+- Software Engineer at [New Innovation Technologies](http://www.innovatec.ae/) .<BR>
+- Software Engineer Trainee at [Envnt](https://envnt.co/) (Codelab).<BR><BR>
 
 | [Show Resume](https://drive.google.com/file/d/1Ty01gSfJshwKY2F9M9EUVYXp4G_9iIu9/view?usp=drive_link) |
 | :-------------------------------------: |
@@ -46,13 +39,14 @@
 
 ### Contact with me:
 
-
-[![gmail](https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)][1]
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
+[![gmail](https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)][1] &nbsp;
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2] &nbsp;
+[![Leetcode](https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=leetcode&logoColor=orange)][3]
 
 
 [1]: mailto:karimsaid026@gmail.com
 [2]: https://www.linkedin.com/in/kareem-saeed-64b6a41a1
+[3]: https://leetcode.com/Kareem_Saeed22/
 
 <h2> Projects </h2>
 
