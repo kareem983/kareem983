@@ -31,11 +31,15 @@
  ### My Experiences 📭
 - Software Engineer at [MOPMAR- Ministry](https://mped.gov.eg/?lang=en).<BR>
 - Software Engineer at [New Innovation Technologies](http://www.innovatec.ae/) .<BR>
-- Software Engineer Trainee at [Envnt](https://envnt.co/) (Codelab).<BR><BR>
+- Software Engineer Trainee at [Envnt](https://envnt.co/) (Codelab).<BR>
 
 | [Show Resume](https://drive.google.com/file/d/1J87wjhlDC3LA04coQ9HMo66P79Ns1kM1/view?usp=drive_link) |
 | :-------------------------------------: |
 
+<h2> Graduation Project </h2>
+
+|[Careium-AI](https://github.com/kareem983/Careium-AI)|
+|:----------:|
 
 ### Contact with me:
 
@@ -48,12 +52,9 @@
 [2]: https://www.linkedin.com/in/kareem-saeed-64b6a41a1
 [3]: https://leetcode.com/Kareem_Saeed22/
 
-<h2> Projects </h2>
 
-### Graduation Project
-|[Careium-AI](https://github.com/kareem983/Careium-AI)|
-|:----------:|
 
+<!--
 |               Android                   |                Desktop               | Others</br>(Individual Tasks) |
  | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
  | [Careium AI](https://github.com/KAN-Team/Careium-AI) | [Simulately](https://github.com/kareem983/Simulately) | [Speech-Text Converter](https://github.com/kareem983/Speech_Text_Converter) |
@@ -63,6 +64,7 @@
  | [Hercules Game](https://github.com/kareem983/Hercules-game-MobileApp) | [Hercules Game](https://github.com/kareem983/Disney-s-Hercules-Game) | [Blender Graphics](https://github.com/kareem983/Computer_Graphics_Demo) |
  | [Notes App](https://github.com/kareem983/Notes-MobileApp)| [Frogger Game](https://github.com/kareem983/frogger-game) | [RoboTech'21 Season](https://github.com/kareem983/RoboTech_Media_2021) |
 
+-->
 
 <!--
 ### Languages and tools that most used
