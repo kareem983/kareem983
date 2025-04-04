@@ -27,7 +27,7 @@
 👨‍💻 I'm interested in Backend Development. <BR>
 🧠 Have a Problem Solving Skills.<BR>
 🌍 Lives in Cairo, Egypt.<BR>
-📧 How to reach me: karimsaid026@gmail.com <BR>
+📧 How to reach me: <a href="mailto:karimsaid026@gmail.com">karimsaid026@gmail.com</a><br>
 
 
  ### My Experiences 📭
