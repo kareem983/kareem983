@@ -27,13 +27,16 @@
 👨‍💻 I'm interested in Backend Development. <BR>
 🧠 Have a Problem Solving Skills.<BR>
 🌍 Lives in Cairo, Egypt.<BR>
+📧 How to reach me: karimsaid026@gmail.com <BR>
+
 
  ### My Experiences 📭
+- Software Engineer at [GlobeMed Egypt](https://support.globemedegypt.com/en/support/home).<BR>
 - Software Engineer at [MOPMAR- Ministry](https://mped.gov.eg/?lang=en).<BR>
 - Software Engineer at [New Innovation Technologies](http://www.innovatec.ae/) .<BR>
 - Software Engineer Trainee at [Envnt](https://envnt.co/) (Codelab).<BR>
 
-| [Show Resume](https://drive.google.com/file/d/1hzwEdt3Td8CuqURiEjf__tVWZP2V3FFZ/view?usp=drive_link) |
+| [Show Resume](https://drive.google.com/file/d/1gvvvkn313K4qbQFIrVU-q3x1pXxsvB_F/view?usp=drive_link) |
 | :-------------------------------------: |
 
 <h2> Graduation Project </h2>
