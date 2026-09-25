@@ -12,12 +12,13 @@
 
 ![](https://komarev.com/ghpvc/?username=kareem983)
 
+<!--
 <a href="https://github.com/kareem983/">
 <img src="https://github-readme-stats.vercel.app/api?username=kareem983&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem983&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/kareem983)
-
+-->
 
 <hr>
 
@@ -36,7 +37,7 @@
 - Software Engineer at [New Innovation Technologies](http://www.innovatec.ae/) .<BR>
 - Software Engineer Trainee at [Envnt](https://envnt.co/) (Codelab).<BR>
 
-| [Show Resume](https://drive.google.com/file/d/1eYiKz49p-3bcTvywXC2DUAnzYtL4nz6X/view?usp=drivesdk) |
+| [Show Resume](https://drive.google.com/file/d/1PE7JKcWQn1XQNVNDJ4wprQ_OZFBSH6gp/view?usp=drive_link) |
 | :-------------------------------------: |
 
 <h2> Graduation Project </h2>
